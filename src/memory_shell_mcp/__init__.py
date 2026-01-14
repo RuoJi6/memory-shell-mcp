@@ -40,8 +40,8 @@ mcp = FastMCP(
 )
 
 # 工具下载地址
-DETECTOR_AGENT_URL = "https://xget.xi-xu.me/gh/RuoJi6/memory-shell-detector/releases/download/2/detector-agent-1.0.0-SNAPSHOT.jar"
-DETECTOR_CLI_URL = "https://xget.xi-xu.me/gh/RuoJi6/memory-shell-detector/releases/download/2/memory-shell-detector-cli.jar"
+DETECTOR_AGENT_URL = "https://xget.xi-xu.me/gh/RuoJi6/memory-shell-mcp/releases/download/1/detector-agent-1.0.0-SNAPSHOT.jar"
+DETECTOR_CLI_URL = "https://xget.xi-xu.me/gh/RuoJi6/memory-shell-mcp/releases/download/1/memory-shell-detector-cli.jar"
 
 
 def get_ssh_config() -> dict:

@@ -237,8 +237,8 @@ memory-shell-mcp
 
 工具会自动从以下地址下载：
 
-- Agent JAR: `https://xget.xi-xu.me/gh/RuoJi6/memory-shell-detector/releases/download/2/detector-agent-1.0.0-SNAPSHOT.jar`
-- CLI JAR: `https://xget.xi-xu.me/gh/RuoJi6/memory-shell-detector/releases/download/2/memory-shell-detector-cli.jar`
+- Agent JAR: `https://xget.xi-xu.me/gh/RuoJi6/memory-shell-mcp/releases/download/1/detector-agent-1.0.0-SNAPSHOT.jar`
+- CLI JAR: `https://xget.xi-xu.me/gh/RuoJi6/memory-shell-mcp/releases/download/1/memory-shell-detector-cli.jar`
 
 ## 支持系统
 
