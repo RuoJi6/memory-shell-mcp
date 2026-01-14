@@ -1,6 +1,6 @@
 [project]
 name = "memory-shell-mcp"
-version = "0.1.2"
+version = "0.1.3"
 description = "Java内存马检测和清理工具的MCP服务器 - Memory Shell Detector MCP Server"
 readme = "README.md"
 license = {text = "MIT"}
